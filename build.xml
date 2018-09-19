@@ -1,0 +1,7 @@
+<project name="project6" default="WAR-build" basedir=".">
+	<description>project6 - Build file</description>
+	
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+	
+</project>
